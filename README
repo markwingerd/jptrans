@@ -1,0 +1,15 @@
+This source code is under Common Development and Distribution 
+License (CDDL-1.0)
+
+
+jptrans
+
+This repo is currently a work in progress.
+
+The intention of this program is to convert Romanji 
+text into Hiragana, Katakana, and Kanji text.  Identifcation
+of the propper use of Katakana and Kanji will likely be up to
+the user of this program.
+
+Please E-mail any questions, comments, concerns, requests,
+advice, etc to tempabode@yahoo.com
