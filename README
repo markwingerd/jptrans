@@ -13,3 +13,8 @@ the user of this program.
 
 Please E-mail any questions, comments, concerns, requests,
 advice, etc to tempabode@yahoo.com
+
+To run
+- Install Python3
+- Install python3-tk
+- run python3 demo.py
